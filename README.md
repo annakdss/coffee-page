@@ -3,7 +3,7 @@ Olá, Bem vindo ao meu projeto de portfólio para cliente Joana.
 
 ## 🔗 Projeto Online
 
-Este portfólio foi desenvolvido como parte da minha jornada de estudos em desenvolvimento Front-End, com foco na criação de interfaces responsivas e modernas utilizando HTML, CSS e JavaScript.
+Coffee Club é um site institucional moderno e responsivo para uma cafeteria fictícia. O projeto foi desenvolvido com HTML5 e CSS3, focando em um layout agradável, acessível e adaptável para diferentes dispositivos (desktop, tablet e mobile).
 
 Confira o projeto publicado na Vercel:  
 ## 🖼️ Preview
