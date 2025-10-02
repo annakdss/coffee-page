@@ -5,8 +5,10 @@ Olá, Bem vindo ao meu projeto de portfólio para cliente Joana.
 
 Coffee Club é um site institucional moderno e responsivo para uma cafeteria fictícia. O projeto foi desenvolvido com HTML5 e CSS3, focando em um layout agradável, acessível e adaptável para diferentes dispositivos (desktop, tablet e mobile).
 
-Confira o projeto publicado na Vercel:  
-## 🖼️ Preview
+# Confira o projeto publicado na Vercel: 
+https://coffee-page-kappa.vercel.app/
+
+# 🖼️ Preview
 
 ![Preview da Página Inicial](https://raw.githubusercontent.com/annakdss/coffee-page/main/Captura%20de%20tela%202025-10-01%20221144.png)
 
