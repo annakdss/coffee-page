@@ -8,11 +8,9 @@ Este portfólio foi desenvolvido como parte da minha jornada de estudos em desen
 Confira o projeto publicado na Vercel:  
 ## 🖼️ Preview
 
-![Preview da Página Inicial](https://github.com/seu-usuario/seu-repo/blob/main/screenshot-home.png?raw=true)
-
-
-![image](<https://github.com/user-attachments/assets/7969d5cd-2318-4bc2-9c5a-7a016d8debd5"/>
+[[Preview](https://github.com/seu-usuario/seu-repo/blob/main/img/screenshot-home.png?raw=true)](https://github.com/seu-usuario/seu-repo/blob/main/screenshot-home.png?raw=true
 )
+
 
 ## 🚀 Ferramentas utilizadas:
 
