@@ -1,4 +1,4 @@
-# Portfólio
+# Coffee Page
 Olá, Bem vindo ao meu projeto de portfólio para cliente Joana.
 
 ## 🔗 Projeto Online
@@ -8,8 +8,7 @@ Este portfólio foi desenvolvido como parte da minha jornada de estudos em desen
 Confira o projeto publicado na Vercel:  
 ## 🖼️ Preview
 
-[[Preview](https://github.com/seu-usuario/seu-repo/blob/main/img/screenshot-home.png?raw=true)](https://github.com/seu-usuario/seu-repo/blob/main/screenshot-home.png?raw=true
-)
+![Preview da Página Inicial](https://raw.githubusercontent.com/annakdss/coffee-page/main/Captura%20de%20tela%202025-10-01%20221144.png)
 
 
 ## 🚀 Ferramentas utilizadas:
