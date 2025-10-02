@@ -8,7 +8,8 @@ Este portfólio foi desenvolvido como parte da minha jornada de estudos em desen
 Confira o projeto publicado na Vercel:  
 👉 [https://portifolio-ofp7.vercel.app](https://coffee-page-kappa.vercel.app/)
 
-![image](https://user-images.githubusercontent.com/77756047/211304452-220fedf0-f91b-490f-8a65-a60ce860bc5c.png)
+![image](<img width="1326" height="597" alt="image" src="https://github.com/user-attachments/assets/7969d5cd-2318-4bc2-9c5a-7a016d8debd5" />
+)
 
 ## 🚀 Ferramentas utilizadas:
 
