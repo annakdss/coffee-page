@@ -6,7 +6,10 @@ Olá, Bem vindo ao meu projeto de portfólio para cliente Joana.
 Este portfólio foi desenvolvido como parte da minha jornada de estudos em desenvolvimento Front-End, com foco na criação de interfaces responsivas e modernas utilizando HTML, CSS e JavaScript.
 
 Confira o projeto publicado na Vercel:  
-👉 [https://portifolio-ofp7.vercel.app](https://coffee-page-kappa.vercel.app/)
+## 🖼️ Preview
+
+![Preview da Página Inicial](https://github.com/seu-usuario/seu-repo/blob/main/screenshot-home.png?raw=true)
+
 
 ![image](<https://github.com/user-attachments/assets/7969d5cd-2318-4bc2-9c5a-7a016d8debd5"/>
 )
